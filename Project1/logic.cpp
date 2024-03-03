@@ -18,7 +18,5 @@ bool symmetric_matrix(int matrix[size][size], int entered_size) {
 		}
 	}
 
-	
-
 	return true;
 }
